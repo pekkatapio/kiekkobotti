@@ -5,5 +5,6 @@ Tämä repo sisältää Vex V5 -robotille ohjelmoidun koodin, jolla pystyy ohjaa
 Tuetut ominaisuudet:
  * liikkuminen eteen ja taakse ohjaimen vasemmasta tatista
  * kääntyminen oikealle ja vasemmalle ohjaimen oikeasta tatista
- * nopeuden säätö 10% askeleilla ohjaimen L1- ja L2-napeista
+ * nopeuden säätö 30% askeleilla ohjaimen L1- ja L2-napeista
  * mailan laukaiseminen ohjaimen R1-napista
+ * mailan avaaminen ja sulkeminen ohjaimen R2-napista
